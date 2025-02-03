@@ -46,7 +46,6 @@ This repository is more than just a collection of Arduino projects; it reflects 
 Each folder contains:
 - ✅ **Circuit Diagram**
 - ✅ **Arduino Code**
-- ✅ **Explanation & Learnings**
 
 Feel free to explore, modify, and build upon these projects! If you have suggestions or want to collaborate, reach out! 🚀
 
